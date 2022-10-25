@@ -10,7 +10,7 @@ import {
 
 const Header = ({Icon, Home}) => {
 	return (
-		<div className="bg-black text-gray-200 flex flex-col items-center p-6 select-none sm:flex-row justify-between">
+		<div className="bg-black text-gray-400 flex flex-col items-center p-6 select-none sm:flex-row justify-between">
 			<div className="flex">
 				<HeaderIcon
 					Icon={HomeIcon}
